@@ -1,0 +1,17 @@
+/vendor/
+/pub/media/*
+!/pub/media/.htaccess
+/pub/static/*
+!/pub/static/.htaccess
+/var/*
+!/var/.htaccess
+/app/etc/env.php
+/app/etc/config.php
+/node_modules/
+/generated/
+/docker/
+/nginx/
+/auth.json
+/.idea/
+/composer.lock
+/.DS_Store
